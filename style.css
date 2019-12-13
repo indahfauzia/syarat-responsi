@@ -1,0 +1,79 @@
+.navbar{
+    width : 100%;
+    background-color: rgb(243, 157, 171);
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: solid 2px aliceblue;
+    background-color: rgb(255, 0, 119);
+}
+span{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(background/background.jpeg);
+}
+.nav-body{
+    width : 80%;
+    margin : auto;
+    color: white;
+}
+.nav-body ul {
+    margin: 0;
+    padding: 0;
+    float: right;    
+}
+.nav-body li {
+    display: inline;
+    padding: 5px;
+    float: right;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    color:rgb(255, 0, 119);
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    background:rgb(255, 0, 119);
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+.Content-background
+text-align: center;
+width: 90%;
+margin: 10px 45px;
+padding: 130px 20px;
+h3:hover{
+    background: turquoise;
+}
+
+/* FOOTER */
+.Footer{
+    width: 90%;
+    margin: 10px 45px;
+    background-color:rgb(243, 157, 171);
+    text-align: center;
+    padding: 5px 20px;
+    font-size: 10px;
